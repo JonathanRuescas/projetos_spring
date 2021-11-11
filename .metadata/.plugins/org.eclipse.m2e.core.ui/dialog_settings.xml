@@ -2,6 +2,12 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\jhowr\Desktop\LojaDeGames-main\loja-games"/>
+			<item value="C:\Users\jhowr\Desktop\Farmacia-main\farmacia"/>
+			<item value="C:\Users\jhowr\Desktop\TechdElas - Spring - Copia"/>
+			<item value="C:\Users\jhowr\Desktop\TechdElas - Spring"/>
+			<item value="C:\Users\jhowr\Desktop\Techdelas"/>
+			<item value="C:\Users\jhowr\Desktop\Techdelas\TechdElas - Spring"/>
 			<item value="C:\Users\jhowr\Desktop\blogPessoal"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -16,5 +22,39 @@
 	<section name="org.eclipse.m2e.core.pom.overview">
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenCheckoutLocationPage">
+		<list key="scmUrl">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenDependenciesWizardPage">
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
 	</section>
 </section>
