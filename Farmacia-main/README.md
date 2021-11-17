@@ -1,2 +1,0 @@
-# Farmacia
-Atividade de Spring 
